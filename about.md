@@ -4,12 +4,26 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am an adaptable Data Scientist skilled in cleaning, interpreting and analyzing data in a fast-paced environment. Highly skilled in machine learning, computer vision, NLP, data visualization, and creative thinking. Currently, I am a Data Scientist at a successful startup, my skills in data science have developed during 4+ years’ experience in my previous role and exposure to projects that heavily involved data analytics, machine learning, statistical computing, and deep learning.
 
-### More Information
+**Email me if you're looking to collaborate on future projects. Always open to new opportunities**
 
-A place to include any other types of information that you'd like to include about yourself.
+### Education
+
+Master of Science, University of California, Berkeley
+
+### Certification
+
+* [Artificial Intelligence](https://wzding.github.io/wzding.github.io/AI_nano.pdf){:target="_blank"}
+* [Machine Learning Engineer](https://wzding.github.io/wzding.github.io/ml_nano.pdf){:target="_blank"}
+* [Data Analyst](https://wzding.github.io/wzding.github.io/data_analyst.pdf){:target="_blank"}
+
+
+### Publication
+
+* [Economic Impact of a Lightning Strike–Induced Outage of Air Traffic Control Tower](https://trrjournalonline.trb.org/doi/pdf/10.3141/2501-10){:target="_blank"}
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[wzding6706@gmail.com](mailto:email@domain.com)
