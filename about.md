@@ -6,17 +6,17 @@ permalink: /about/
 
 I am an adaptable Data Scientist skilled in cleaning, interpreting and analyzing data in a fast-paced environment. Highly skilled in machine learning, computer vision, NLP, data visualization, and creative thinking. Currently, I am a Data Scientist at a successful startup, my skills in data science have developed during 4+ years’ experience in my previous role and exposure to projects that heavily involved data analytics, machine learning, statistical computing, and deep learning.
 
-**Email me if you're looking to collaborate on future projects. Always open to new opportunities**
+**Email me if you're looking to collaborate on future projects. Always open to new opportunities.**
 
 ### Education
 
 Master of Science, University of California, Berkeley
 
-### Certification
+### Certificate
 
 * [Artificial Intelligence](https://wzding.github.io/wzding.github.io/AI_nano.pdf){:target="_blank"}
 * [Machine Learning Engineer](https://wzding.github.io/wzding.github.io/ml_nano.pdf){:target="_blank"}
-* [Data Analyst](https://wzding.github.io/wzding.github.io/data_analyst.pdf){:target="_blank"}
+* [Data Science](https://wzding.github.io/wzding.github.io/data_analyst.pdf){:target="_blank"}
 
 
 ### Publication
@@ -26,4 +26,4 @@ Master of Science, University of California, Berkeley
 
 ### Contact me
 
-[wzding6706@gmail.com](mailto:email@domain.com)
+[wzding6706@gmail.com](mailto:wzding6706@gmail.com)
