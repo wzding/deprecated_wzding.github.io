@@ -15,7 +15,7 @@ Master of Science, University of California, Berkeley
 ### Certificate
 
 * [Artificial Intelligence](https://wzding.github.io/wzding.github.io/AI_nano.pdf){:target="_blank"}
-* [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/W5KPU8DHVV7Y)
+* [Machine Learning](https://wzding.github.io/wzding.github.io/Coursera.pdf){:target="_blank"}
 * [Machine Learning Engineer](https://wzding.github.io/wzding.github.io/ml_nano.pdf){:target="_blank"}
 * [Data Science](https://wzding.github.io/wzding.github.io/data_analyst.pdf){:target="_blank"}
 
