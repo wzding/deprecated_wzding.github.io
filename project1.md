@@ -15,11 +15,12 @@ Projects in this page are organized by **domain**.
 <a href="https://wzding.github.io/wzding.github.io/projects/AirlinesScheduleBlockTimeAdjustmentBehavior.pdf" target="_blank">**A Study on Airlines’ Schedule Block Time Adjustment Behavior**</a> - This .
 <br><br><a href="https://wzding.github.io/wzding.github.io/projects/LightningstrikeInducedOutages.pdf" target="_blank">**Lightning strike Induced Outages**</a> - This .
 
-## Real Estate
-<a href="https://wzding.github.io/wzding.github.io/projects/Boston_Housing.html" target="_blank">**Analyzing Boston Housing**</a> -
-
-## E-commerce
+## Supply Chain Management
 <a href="https://wzding.github.io/wzding.github.io/projects/Customer_Segments.html" target="_blank">**Customer Segmentation**</a> - .
+<br><br><a href="https://wzding.github.io/wzding.github.io/projects/stock_out_prediction.html" target="_blank">**Predicting Stock Out**</a> - .
+
+## Real Estate
+<a href="https://wzding.github.io/wzding.github.io/projects/Boston_Housing.html" target="_blank">**Analyzing Boston Housing**</a> - .
 
 ## Entertainment
 <a href="https://wzding.github.io/wzding.github.io/projects/Dog_Identification_App.html" target="_blank">**Developing A Dog Identification App**</a> - This .
