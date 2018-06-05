@@ -17,7 +17,7 @@ Projects in this page are organized by **domain**.
 
 ## Supply Chain Management
 <a href="https://wzding.github.io/wzding.github.io/projects/Customer_Segments.html" target="_blank">**Customer Segmentation**</a> - .
-<br><br><a href="https://wzding.github.io/wzding.github.io/projects/stock_out_prediction.html" target="_blank">**Predicting Stock Out**</a> - .
+<br><br><a href="https://wzding.github.io/wzding.github.io/projects/stock_out_prediction.html" target="_blank">**Predicting Stock Out**</a> - For this project, I used a variety of different supervised learning approaches (SVMs, KNNs, Decision Trees, Neural Networks), but ultimately found that a Nearest Neighbors	 model got the best accuracy of 99%. I used Numpy and Sklearn to help preprocess the data and create the models.
 
 ## Real Estate
 <a href="https://wzding.github.io/wzding.github.io/projects/Boston_Housing.html" target="_blank">**Analyzing Boston Housing**</a> - .
@@ -30,4 +30,4 @@ Projects in this page are organized by **domain**.
 <a href="https://wzding.github.io/wzding.github.io/projects/Finding_Donors_for_Charity.html" target="_blank">**Finding Donors for Charity**</a> - This .
 
 ## Learn from Catastrophic Events
-<a href="https://wzding.github.io/wzding.github.io/projects/Titanic_Survival_Exploration.html" target="_blank">**Titanic Survival Exploration**</a> - The Kaggle Titanic competition revolved around taking in a dataset of all the passengers in the Titanic, and then predicting whether or not they survived. The features in the dataset included room location, age, gender, etc. For this competition, I used a variety of different supervised learning approaches (SVMs, KNNs, Decision Trees, Neural Networks), but ultimately found that a KNN model (where K = 17) got the best accuracy of 78.95%. I used Numpy and Sklearn to help preprocess the data and create the models.
+<a href="https://wzding.github.io/wzding.github.io/projects/Titanic_Survival_Exploration.html" target="_blank">**Titanic Survival Exploration**</a> - The Kaggle Titanic competition revolved around taking in a dataset of all the passengers in the Titanic, and then predicting whether or not they survived. The features in the dataset included room location, age, gender, etc. 
