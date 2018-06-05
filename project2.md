@@ -3,7 +3,7 @@ layout: page
 permalink: /project2/
 ---
 
-iPython Tensorflow Notebook Tutorials
+Projects in this page are organized by technology.
 ====================
 ![](/assets/tf.jpg)
 
