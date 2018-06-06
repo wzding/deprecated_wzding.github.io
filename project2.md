@@ -19,7 +19,7 @@ Projects in this page are organized by **technology**.
 ### Clustering
 <a href="https://wzding.github.io/wzding.github.io/projects/Customer_Segments.html" target="_blank">**Customer Segmentation**</a> - this project is to best describe the variation in different types of customers that a wholesale distributor interacts with by analyzing customers' annual spending amounts on diverse product categories.
 ### Recommendation
-<br><br><a href="https://wzding.github.io/wzding.github.io/projects/Select_Genre_of_Next_Movie.html" target="_blank">**Select Genre of Next Movie**</a> - In this project, our goal is to pick the genre of our studio’s next movie using the dataset of IMDB movie ratings. We come up with two metrics to evaluate the popularity and reputation of a movie in a cerain genre and make recommendations on the genre of our next movie.
+<a href="https://wzding.github.io/wzding.github.io/projects/Select_Genre_of_Next_Movie.html" target="_blank">**Select Genre of Next Movie**</a> - In this project, our goal is to pick the genre of our studio’s next movie using the dataset of IMDB movie ratings. We come up with two metrics to evaluate the popularity and reputation of a movie in a cerain genre and make recommendations on the genre of our next movie.
 
 ## Reinforcement Learning
 <a href="" target="_blank">**Train a Smartcab to Drive**</a> - In this project, we apply reinforcement learning techniques for a self-driving agent in a simplified world to aid it in effectively reaching its destinations in the allotted time.
