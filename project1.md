@@ -8,8 +8,8 @@ Projects in this page are organized by **domain**.
 ## Transportation
 <a href="https://wzding.github.io/wzding.github.io/projects/Vehicle_Detection.html" target="_blank">**Vehicle Detection**</a> - In this project, I created a pipeline to detect vehicles on the road in a video from a front-facing camera on a car. There was a bounding box for each vehicle detected using this pipeline. 
 <br><br><a href="https://wzding.github.io/wzding.github.io/projects/Object_Detection_MobileNets_SSD.html" target="_blank">**Detecting Cars On The Road**</a> - This project shared a similar goal with the one above, detecting cars, people, bikes in a image, but it approached this goal with a totally different method.
-<br><br><a href="https://wzding.github.io/wzding.github.io/projects/Semantic_Segmentation.html" target="_blank">**Detecting Lane Lines**</a> - In this project, we used semantic segmentation to assign each pixel to the road in a series of images. 
-<br><br><a href="" target="_blank">**Train a Smartcab to Drive**</a> - In this project, we applied reinforcement learning techniques for a self-driving agent in a simplified world to aid it in effectively reaching its destinations in the allotted time.
+<br><br><a href="https://wzding.github.io/wzding.github.io/projects/Semantic_Segmentation.html" target="_blank">**Detecting Lane Lines**</a> - In this project, I used semantic segmentation to assign each pixel to the road in a series of images. 
+<br><br><a href="" target="_blank">**Train a Smartcab to Drive**</a> - In this project, I applied reinforcement learning techniques for a self-driving agent in a simplified world to aid it in effectively reaching its destinations in the allotted time.
 <br><br><a href="https://wzding.github.io/wzding.github.io/projects/Wrangle_OpenStreetMap.html" target="_blank">**Wrangle Open Street Map Data**</a> - For this project, I selected San Diego, CA, United States in [Open Street Map](https://www.openstreetmap.org) and used data munging techniques, such as assessing the quality of the data for validity, accuracy, completeness, consistency and uniformity, to clean the raw data. I used SQL as the data schema to complete the project.
 
 ## Aviation
@@ -28,7 +28,7 @@ Projects in this page are organized by **domain**.
 <br><br><a href="https://wzding.github.io/wzding.github.io/projects/Select_Genre_of_Next_Movie.html" target="_blank">**Select Genre of Next Movie**</a> - In this project, my goal was to pick the genre of our studio’s next movie using the dataset of IMDB movie ratings. I came up with two metrics to evaluate the popularity and reputation of a movie in a cerain genre and made recommendations on the genre of the next movie.
 
 ## Non-profit
-<a href="https://wzding.github.io/wzding.github.io/projects/Finding_Donors_for_Charity.html" target="_blank">**Finding Donors for Charity**</a> - In this project, we built algorithms to identify potential donors for a non-profit organization to reduce overhead cost of sending mails and outreach.
+<a href="https://wzding.github.io/wzding.github.io/projects/Finding_Donors_for_Charity.html" target="_blank">**Finding Donors for Charity**</a> - In this project, I built algorithms to identify potential donors for a non-profit organization to reduce overhead cost of sending mails and outreach.
 
 ## Learn from Catastrophic Events
 <a href="https://wzding.github.io/wzding.github.io/projects/Titanic_Survival_Exploration.html" target="_blank">**Titanic Survival Exploration**</a> - The project revolved around taking in a dataset of all the passengers in the Titanic disaster, which includes data such as age, gender, ticket price and etc. to predict whether or not they survived. 
