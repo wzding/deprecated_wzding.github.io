@@ -5,13 +5,6 @@ permalink: /project2/
 
 Projects in this page are organized by **technology**.
 
-## Tools I use
-* Language: Python, C++
-* Database: MySQL, MongoDB
-* Data Analysis: pandas, numpy, sklearn, 
-* Deep Learning: tenforflowt, Keras
-* Spatial Analytics: ArcGIS
-
 ## Supervised Learning
 ### Classification
 <a href="https://wzding.github.io/wzding.github.io/projects/Finding_Donors_for_Charity.html" target="_blank">**Finding Donors for Charity**</a> - In this project, we build algorithms to identify potential donors for a non-profit organization to reduce overhead cost of sending mails.
@@ -44,6 +37,13 @@ Projects in this page are organized by **technology**.
 <a href="https://wzding.github.io/wzding.github.io/projects/Wrangle_OpenStreetMap.html" target="_blank">**Wrangle Open Street Map Data**</a> - For this project, I selected San Diego, CA, United States in [Open Street Map](https://www.openstreetmap.org) and used data munging techniques, such as assessing the quality of the data for validity, accuracy, completeness, consistency and uniformity, to clean the raw data. I used SQL as the data schema to complete the project.
 
 ## Behavior Modeling
-### discrete choice models
 <a href="https://wzding.github.io/wzding.github.io/projects/AirlinesScheduleBlockTimeAdjustmentBehavior.pdf" target="_blank">**A Study on Airlines’ Schedule Block Time Adjustment Behavior**</a> - This study identifies the factors that affect airlines’ schedule block time (the yearly time differences of scheduled departure times and arrival times) and quantifies their impacts.
+
+## Tools I use
+* Language: Python, C++
+* Database: MySQL, MongoDB
+* Data Analysis: pandas, numpy, sklearn, 
+* Deep Learning: tenforflowt, Keras
+* Spatial Analytics: ArcGIS
+
 
