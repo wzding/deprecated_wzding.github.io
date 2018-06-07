@@ -42,8 +42,8 @@ Projects in this page are organized by **technology**.
 ## Tools I use
 * Language: Python, C++
 * Database: MySQL, MongoDB
-* Data Analysis: pandas, numpy, sklearn, 
-* Deep Learning: tenforflowt, Keras
+* Data Analysis: pandas, numpy, sklearn
+* Deep Learning: tenforflow, Keras
 * Spatial Analytics: ArcGIS
 
 
