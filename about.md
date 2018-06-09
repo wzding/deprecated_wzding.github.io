@@ -8,6 +8,10 @@ I am an adaptable Data Scientist skilled in cleaning, interpreting and analyzing
 
 **Email me if you're looking to collaborate on future projects. Always open to new opportunities.**
 
+### Contact me
+
+[wzding6706@gmail.com](mailto:wzding6706@gmail.com)
+
 ### Education
 
 Master of Science, University of California, Berkeley
@@ -20,12 +24,14 @@ Master of Science, University of California, Berkeley
 * [Machine Learning Engineer](https://wzding.github.io/wzding.github.io/ml_nano.pdf){:target="_blank"} a practical machine learning program to help students build effective machine learning models, and learn to approach and solve real-world problems across a wide array of fields.
 * [Data Science](https://wzding.github.io/wzding.github.io/data_analyst.pdf){:target="_blank"} this program teaches students to use Python, R, SQL, and Tableau to uncover insights, communicate critical findings, and create data-driven solutions.
 
-
 ### Publication
 
 * [Economic Impact of a Lightning Strike–Induced Outage of Air Traffic Control Tower](https://trrjournalonline.trb.org/doi/pdf/10.3141/2501-10){:target="_blank"}
 * Downstream Impact of Flight Rerouting (Accepted), Transportation Research Part C
 
-### Contact me
-
-[wzding6706@gmail.com](mailto:wzding6706@gmail.com)
+## Tools I use
+* Language: Python, C++
+* Database: MySQL, MongoDB
+* Data Analysis: pandas, numpy, sklearn
+* Deep Learning: tenforflow, Keras
+* Spatial Analytics: ArcGIS
