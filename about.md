@@ -6,11 +6,7 @@ permalink: /about/
 
 I am an adaptable Data Scientist skilled in cleaning, interpreting and analyzing data in a fast-paced environment. Highly skilled in machine learning, computer vision, NLP, data visualization, and creative thinking. Currently, I am a Data Scientist at a successful startup, my skills in data science have developed during 4+ years’ experience in my previous role and exposure to projects that heavily involved data analytics, machine learning, statistical computing, and deep learning.
 
-**Email me if you're looking to collaborate on future projects. Always open to new opportunities.**
-
-### Contact me
-
-[wzding6706@gmail.com](mailto:wzding6706@gmail.com)
+**Email me at [wzding6706@gmail.com](mailto:wzding6706@gmail.com) if you're looking to collaborate on future projects. Always open to new opportunities.**
 
 ### Education
 
