@@ -6,7 +6,7 @@ permalink: /project1/
 Projects in this page are organized by **domain**.
 
 ## Transportation
-<a href="https://wzding.github.io/wzding.github.io/projects/Traffic_Light_Detection_and_Classification.html" target="_blank">**Vehicle Detection**</a> - I created a model to detect traffic light and classify its color in a video. My classifier is able to detect and classify traffic lights in test data. 
+<a href="https://wzding.github.io/wzding.github.io/projects/Traffic_Light_Detection_and_Classification.html" target="_blank">**Traffic Light Detection and Classification**</a> - I created a model to detect traffic light and classify its color in a video. My classifier is able to detect and classify traffic lights in test data. 
 <br><br><a href="https://wzding.github.io/wzding.github.io/projects/Vehicle_Detection.html" target="_blank">**Vehicle Detection**</a> - In this project, I created a pipeline to detect vehicles on the road in a video from a front-facing camera on a car. There was a bounding box for each vehicle detected using this pipeline. 
 <br><br><a href="https://wzding.github.io/wzding.github.io/projects/Object_Detection_MobileNets_SSD.html" target="_blank">**Detecting Cars On The Road**</a> - This project shared a similar goal with the one above, detecting cars, people, bikes in a image, but it approached this goal with a totally different method.
 <br><br><a href="https://wzding.github.io/wzding.github.io/projects/Semantic_Segmentation.html" target="_blank">**Detecting Lane Lines**</a> - In this project, I used semantic segmentation to assign each pixel to the road in a series of images. 
