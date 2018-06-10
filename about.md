@@ -29,9 +29,11 @@ Master of Science, University of California, Berkeley
 * [Economic Impact of a Lightning Strike–Induced Outage of Air Traffic Control Tower](https://trrjournalonline.trb.org/doi/pdf/10.3141/2501-10){:target="_blank"}
 * Downstream Impact of Flight Rerouting (Accepted), Transportation Research Part C
 
-## Tools I use
-* Language: Python, C++
+### Tools I use
+* Language: Python, R, scala, C++ 
 * Database: MySQL, MongoDB
 * Data Analysis: pandas, numpy, sklearn
+* Big Data: Hadoop, Spark
 * Deep Learning: tenforflow, Keras
-* Spatial Analytics: ArcGIS
+* Data Visualization: D3.js, Shiny, Tableau
+* Spatial Analytics: ArcGIS, QGIS
