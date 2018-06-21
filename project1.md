@@ -5,6 +5,15 @@ permalink: /project1/
 
 Projects in this page are organized by **domain**.
 
+- [Transportation](#heading)
+- [Aviation](#heading-1)
+- [Supply Chain Management](#heading-2)
+- [Real Estate](#heading-3)
+- [Entertainment](#heading-4)
+- [Non-profit](#heading-5)
+- [Learn from Disaster](#heading-5)
+
+    
 ## Transportation
 <a href="https://wzding.github.io/wzding.github.io/projects/Traffic_Light_Detection_and_Classification.html" target="_blank">**Traffic Light Detection and Classification**</a> - I created a model to detect traffic light and classify its color in a video. My classifier is able to detect and classify traffic lights in test data. 
 <br><br><a href="https://wzding.github.io/wzding.github.io/projects/Vehicle_Detection.html" target="_blank">**Vehicle Detection**</a> - In this project, I created a pipeline to detect vehicles on the road in a video from a front-facing camera on a car. There was a bounding box for each vehicle detected using this pipeline. 
@@ -31,5 +40,5 @@ Projects in this page are organized by **domain**.
 ## Non-profit
 <a href="https://wzding.github.io/wzding.github.io/projects/Finding_Donors_for_Charity.html" target="_blank">**Finding Donors for Charity**</a> - In this project, I built algorithms to identify potential donors for a non-profit organization to reduce overhead cost of sending mails and outreach.
 
-## Learn from Catastrophic Events
+## Learn from Disaster
 <a href="https://wzding.github.io/wzding.github.io/projects/Titanic_Survival_Exploration.html" target="_blank">**Titanic Survival Exploration**</a> - The project revolved around taking in a dataset of all the passengers in the Titanic disaster, which includes data such as age, gender, ticket price and etc. to predict whether or not they survived. 
