@@ -17,6 +17,7 @@ Projects in this page are organized by **technology**.
   - [SQL](#sql)
   - [NoSQL](#nosql)
 - [Behavior Modeling](#behavior-modeling)
+- [Tools I use](#tools-i-use)
 
 ----
 ## Supervised Learning
@@ -61,3 +62,12 @@ Projects in this page are organized by **technology**.
 ## Behavior Modeling
 <a href="https://wzding.github.io/wzding.github.io/projects/AirlinesScheduleBlockTimeAdjustmentBehavior.pdf" target="_blank">**A Study on Airlines’ Schedule Block Time Adjustment Behavior**</a> - This study identified factors that affect airlines’ schedule block time (the yearly time differences of scheduled departure times and arrival times) and quantified their impacts.
 
+----
+## Tools I use
+* Language: Python, R, scala, C++ 
+* Database: MySQL, MongoDB
+* Data Analysis: pandas, numpy, sklearn
+* Big Data: Hadoop, Spark
+* Deep Learning: tenforflow, Keras
+* Data Visualization: D3.js, Shiny, Tableau
+* Spatial Analytics: ArcGIS, QGIS
