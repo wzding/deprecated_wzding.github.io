@@ -26,7 +26,7 @@ Master of Science, University of California, Berkeley
 * [Economic Impact of a Lightning Strike–Induced Outage of Air Traffic Control Tower](https://trrjournalonline.trb.org/doi/pdf/10.3141/2501-10){:target="_blank"}
 * Downstream Impact of Flight Rerouting (Accepted), Transportation Research Part C
 
-## My favourite books
+## Books I'd highly recommend
 * *Man's Search for Meaning* - Frankl, Viktor E.
 * *Tribe of Mentors* - Ferriss, Tim
 * *Quiet: The Power of Introverts in a World That Can’t Stop Talking* - Cain,Susan
