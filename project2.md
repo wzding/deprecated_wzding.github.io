@@ -51,6 +51,7 @@ Projects in this page are organized by **technology**.
 <a href="https://wzding.github.io/wzding.github.io/projects/Advanced-Lane-Finding.html" target="_blank">**Detecting Lane Lines I**</a> - detected lane lines on a highway by creating thresholded binary image as well as calculated curvature and vehicle's position in a video by fitting 2nd order polynomial functions.
 ### Convolutional Neural Network
 <a href="https://wzding.github.io/wzding.github.io/projects/Dog_Identification_App.html" target="_blank">**Developing A Dog Identification App**</a> - aimed at developing an algorithm that could accept any user-supplied image as input. If a dog is detected in the image, it would provide an estimate of the dog's breed. If a human is detected, it would provide an estimate of the dog breed that is most resembling.
+<br><br><a href="https://wzding.github.io/wzding.github.io/projects/Traffic_Sign_Classifier.html" target="_blank">**Traffic Sign Recognition**</a> - trained and evaluated a LeNet model using the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). 
 ### Fully Convolutional Network
 <a href="https://wzding.github.io/wzding.github.io/projects/Semantic_Segmentation.html" target="_blank">**Detecting Lane Lines II**</a> - used Fully Convolutional Network to identify free space on the road in a video clip.
 ### MobileNet Single Shot Detection
