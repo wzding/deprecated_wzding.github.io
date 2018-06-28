@@ -58,6 +58,7 @@ Projects in this page are organized by **technology**.
 <a href="https://wzding.github.io/wzding.github.io/projects/Object_Detection_MobileNets_SSD.html" target="_blank">**Vehicle Detection II**</a> - used MobileNets separable depthwise convolutions and Single Shot Detection (SSD) to build a pipeline to detect cars, people, bikes in a image.
 ### Object Detection API
 <a href="https://wzding.github.io/wzding.github.io/projects/Traffic_Light_Detection_and_Classification.html" target="_blank">**Traffic Light Detection and Classification**</a> - used Google Tensorflow Object Detection API to train a classifier to detect and classify traffic light in videos.
+
 ----
 ## NLP
 
