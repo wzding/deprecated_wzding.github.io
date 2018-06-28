@@ -21,6 +21,7 @@ Projects in this page are organized by **domain**.
 ----
 ## Transportation
 <a href="https://wzding.github.io/wzding.github.io/projects/Traffic_Light_Detection_and_Classification.html" target="_blank">**Traffic Light Detection and Classification**</a> - created a deep learning model to detect if there is a traffic light in an image as well as determine the color - green, yellow or red - of the light.
+<br><br><a href="https://wzding.github.io/wzding.github.io/projects/Traffic_Sign_Classifier.html" target="_blank">**Traffic Sign Recognition**</a> - used LeNet to recognize traffic signs and achieved over 90% accuracy on test images.
 <br><br><a href="https://wzding.github.io/wzding.github.io/projects/Vehicle_Detection.html" target="_blank">**Vehicle Detection I**</a> - built a pipeline to detect vehicles on the road in a video from a front-facing camera on a car. There was a bounding box for each vehicle detected using this pipeline. 
 <br><br><a href="https://wzding.github.io/wzding.github.io/projects/Object_Detection_MobileNets_SSD.html" target="_blank">**Vehicle Detection II**</a> - shared a similar goal with the project above, detecting cars, people, bikes in a image, but it approached this goal with a totally different method.
 <br><br><a href="https://wzding.github.io/wzding.github.io/projects/Advanced-Lane-Finding.html" target="_blank">**Detecting Lane Lines I**</a> - detected lane lines on a highway as well as calculated curvature and vehicle's position in a video. 
