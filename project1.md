@@ -6,6 +6,7 @@ permalink: /project1/
 Projects in this page are organized by **domain**.
 
 - [Transportation](#transportation)
+- [Finance](#Finance)
 - [Aviation](#aviation)
 - [Supply Chain Management](#supply-chain-management)
 - [Real Estate](#real-estate)
@@ -33,6 +34,10 @@ Projects in this page are organized by **domain**.
 ## Aviation
 <a href="https://wzding.github.io/wzding.github.io/projects/AirlinesScheduleBlockTimeAdjustmentBehavior.pdf" target="_blank">**A Study on Airlines’ Schedule Block Time Adjustment Behavior**</a> - identified several factors that affect airlines’ schedule block time (the yearly time differences of scheduled departure times and arrival times) and quantified their impacts.
 <br><br><a href="https://wzding.github.io/wzding.github.io/projects/LightningstrikeInducedOutages.pdf" target="_blank">**Lightning strike Induced Outages**</a> - This research analyzed lightning strikes and weather conditions, and investigated how lighting-induced outages of airport infrastructure and facilities impact airport performance from an economic perspective.
+
+----
+## Finance
+<a href="https://wzding.github.io/wzding.github.io/projects/Time_Series_Prediction.html" target="_blank">**Predicting Stock Price**</a> - obtained annual common stock price data of U.S. from 1871 to 1969 and predicted stock price 7 years in advance.
 
 ----
 ## Supply Chain Management
