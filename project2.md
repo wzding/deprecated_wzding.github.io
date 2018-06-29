@@ -12,7 +12,7 @@ Projects in this page are organized by **technology**.
   - [Recommendation](#recommendation)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Computer Vision](#computer-vision)
-  - [Convolutional Neural Networks](#convolutional-neural-network)
+  - [Convolutional Neural Network](#convolutional-neural-network)
   - [Fully Convolutional Network](#fully-convolutional-network)
   - [MobileNet Single Shot Detection](#mobilenet-single-shot-detection)
   - [Object Detection API](#object-detection-api)
@@ -51,12 +51,14 @@ Projects in this page are organized by **technology**.
 <a href="https://wzding.github.io/wzding.github.io/projects/Advanced-Lane-Finding.html" target="_blank">**Detecting Lane Lines I**</a> - detected lane lines on a highway by creating thresholded binary image as well as calculated curvature and vehicle's position in a video by fitting 2nd order polynomial functions.
 ### Convolutional Neural Network
 <a href="https://wzding.github.io/wzding.github.io/projects/Dog_Identification_App.html" target="_blank">**Developing A Dog Identification App**</a> - aimed at developing an algorithm that could accept any user-supplied image as input. If a dog is detected in the image, it would provide an estimate of the dog's breed. If a human is detected, it would provide an estimate of the dog breed that is most resembling.
+<br><br><a href="https://wzding.github.io/wzding.github.io/projects/Traffic_Sign_Classifier.html" target="_blank">**Traffic Sign Recognition**</a> - used LeNet architecture to train a CNN to recognize traffic signs. 
 ### Fully Convolutional Network
 <a href="https://wzding.github.io/wzding.github.io/projects/Semantic_Segmentation.html" target="_blank">**Detecting Lane Lines II**</a> - used Fully Convolutional Network to identify free space on the road in a video clip.
 ### MobileNet Single Shot Detection
 <a href="https://wzding.github.io/wzding.github.io/projects/Object_Detection_MobileNets_SSD.html" target="_blank">**Vehicle Detection II**</a> - used MobileNets separable depthwise convolutions and Single Shot Detection (SSD) to build a pipeline to detect cars, people, bikes in a image.
 ### Object Detection API
 <a href="https://wzding.github.io/wzding.github.io/projects/Traffic_Light_Detection_and_Classification.html" target="_blank">**Traffic Light Detection and Classification**</a> - used Google Tensorflow Object Detection API to train a classifier to detect and classify traffic light in videos.
+
 ----
 ## NLP
 

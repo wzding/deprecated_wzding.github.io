@@ -6,6 +6,7 @@ permalink: /project1/
 Projects in this page are organized by **domain**.
 
 - [Transportation](#transportation)
+- [Finance](#Finance)
 - [Aviation](#aviation)
 - [Supply Chain Management](#supply-chain-management)
 - [Real Estate](#real-estate)
@@ -21,6 +22,7 @@ Projects in this page are organized by **domain**.
 ----
 ## Transportation
 <a href="https://wzding.github.io/wzding.github.io/projects/Traffic_Light_Detection_and_Classification.html" target="_blank">**Traffic Light Detection and Classification**</a> - created a deep learning model to detect if there is a traffic light in an image as well as determine the color - green, yellow or red - of the light.
+<br><br><a href="https://wzding.github.io/wzding.github.io/projects/Traffic_Sign_Classifier.html" target="_blank">**Traffic Sign Recognition**</a> - trained and evaluated a deep learning model using the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) and achieved over 90% accuracy on test images.
 <br><br><a href="https://wzding.github.io/wzding.github.io/projects/Vehicle_Detection.html" target="_blank">**Vehicle Detection I**</a> - built a pipeline to detect vehicles on the road in a video from a front-facing camera on a car. There was a bounding box for each vehicle detected using this pipeline. 
 <br><br><a href="https://wzding.github.io/wzding.github.io/projects/Object_Detection_MobileNets_SSD.html" target="_blank">**Vehicle Detection II**</a> - shared a similar goal with the project above, detecting cars, people, bikes in a image, but it approached this goal with a totally different method.
 <br><br><a href="https://wzding.github.io/wzding.github.io/projects/Advanced-Lane-Finding.html" target="_blank">**Detecting Lane Lines I**</a> - detected lane lines on a highway as well as calculated curvature and vehicle's position in a video. 
@@ -32,6 +34,10 @@ Projects in this page are organized by **domain**.
 ## Aviation
 <a href="https://wzding.github.io/wzding.github.io/projects/AirlinesScheduleBlockTimeAdjustmentBehavior.pdf" target="_blank">**A Study on Airlines’ Schedule Block Time Adjustment Behavior**</a> - identified several factors that affect airlines’ schedule block time (the yearly time differences of scheduled departure times and arrival times) and quantified their impacts.
 <br><br><a href="https://wzding.github.io/wzding.github.io/projects/LightningstrikeInducedOutages.pdf" target="_blank">**Lightning strike Induced Outages**</a> - This research analyzed lightning strikes and weather conditions, and investigated how lighting-induced outages of airport infrastructure and facilities impact airport performance from an economic perspective.
+
+----
+## Finance
+<a href="https://wzding.github.io/wzding.github.io/projects/Time_Series_Prediction.html" target="_blank">**Predicting Stock Price**</a> - obtained annual common stock price data of U.S. from 1871 to 1969 and predicted stock price 7 years in advance.
 
 ----
 ## Supply Chain Management
