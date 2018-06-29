@@ -16,6 +16,7 @@ Projects in this page are organized by **technology**.
   - [Fully Convolutional Network](#fully-convolutional-network)
   - [MobileNet Single Shot Detection](#mobilenet-single-shot-detection)
   - [Object Detection API](#object-detection-api)
+- [Recurrent Neural Network](#recurrent-neural-network)
 - [NLP](#nlp)
 - [Database](#database)
   - [SQL](#sql)
@@ -58,6 +59,10 @@ Projects in this page are organized by **technology**.
 <a href="https://wzding.github.io/wzding.github.io/projects/Object_Detection_MobileNets_SSD.html" target="_blank">**Vehicle Detection II**</a> - used MobileNets separable depthwise convolutions and Single Shot Detection (SSD) to build a pipeline to detect cars, people, bikes in a image.
 ### Object Detection API
 <a href="https://wzding.github.io/wzding.github.io/projects/Traffic_Light_Detection_and_Classification.html" target="_blank">**Traffic Light Detection and Classification**</a> - used Google Tensorflow Object Detection API to train a classifier to detect and classify traffic light in videos.
+
+----
+## Recurrent Neural Network
+<a href="https://wzding.github.io/wzding.github.io/projects/Time_Series_Prediction.html" target="_blank">**Predicting Stock Price**</a> - used a Recurrent Neural Network regressor to forecast stock prices 7 years in advance.
 
 ----
 ## NLP
