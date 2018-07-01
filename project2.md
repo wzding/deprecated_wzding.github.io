@@ -63,6 +63,7 @@ Projects in this page are organized by **technology**.
 ----
 ## Recurrent Neural Network
 <a href="https://wzding.github.io/wzding.github.io/projects/Time_Series_Prediction.html" target="_blank">**Predicting Stock Price**</a> - used a Recurrent Neural Network regressor to forecast stock prices 7 years in advance.
+<br><br><a href="https://wzding.github.io/wzding.github.io/projects/Text_Generation.html" target="_blank">**Create A Text Generator**</a> - used a Recurrent Neural Network (RNN) architecture to create an English language sequence generator capable of building semi-coherent English sentences from scratch by building them up character-by-character. 
 
 ----
 ## NLP
