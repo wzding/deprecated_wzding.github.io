@@ -52,6 +52,7 @@ Projects in this page are organized by **domain**.
 ## Entertainment
 <a href="https://wzding.github.io/wzding.github.io/projects/Dog_Identification_App.html" target="_blank">**Developing A Dog Identification App**</a> - aimed at developing an algorithm that accept any user-supplied image as input and predict the most relevant dog breed of that image. If a dog is detected in the image, it provides an estimate of the dog's breed. If a human is detected, it provides an estimate of the dog breed that is most resembling.
 <br><br><a href="https://wzding.github.io/wzding.github.io/projects/Select_Genre_of_Next_Movie.html" target="_blank">**Select Genre of Next Movie**</a> - made recommendations on the genre of a studio’s next movie using the dataset of IMDB movie ratings. I came up with two metrics to evaluate the popularity and reputation of a movie of a cerain genre which helps us in data-driven decision making.
+<br><br><a href="https://wzding.github.io/wzding.github.io/projects/Text_Generation.html" target="_blank">**Create A Text Generator**</a> - created an English language sequence generator to generate semi-coherent English sentences (character-by-character). 
 
 ----
 ## Non-profit
