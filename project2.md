@@ -22,6 +22,7 @@ Projects in this page are organized by **technology**.
   - [SQL](#sql)
   - [NoSQL](#nosql)
 - [Behavior Modeling](#behavior-modeling)
+- [Visualization](#visualization)
 - [Tools I use](#tools-i-use)
 
 ----
@@ -78,6 +79,10 @@ Projects in this page are organized by **technology**.
 ----
 ## Behavior Modeling
 <a href="https://wzding.github.io/wzding.github.io/projects/AirlinesScheduleBlockTimeAdjustmentBehavior.pdf" target="_blank">**A Study on Airlines’ Schedule Block Time Adjustment Behavior**</a> - built discrete choice models to identify factors that affect airlines’ schedule block time (the yearly time differences of scheduled departure times and arrival times) and quantify their impacts.
+
+----
+## Visualization
+<a href="https://lovely-haleakala-78084.herokuapp.com/shortage" target="_blank">**Visualizing Impact of Component Shortage on Finished Goods**</a> - created a dashboard using [Bokeh](https://bokeh.pydata.org/en/latest/) and [Heroku](https://dashboard.heroku.com/) to visualize monetary loss of finished goods due to shortage of certain component/components. Please note that it may take some time to load the website cause I used a free-tier Heroku account to deploy the app.
 
 ----
 ## Tools I use
