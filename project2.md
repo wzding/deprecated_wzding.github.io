@@ -10,14 +10,14 @@ Projects in this page are organized by **technology**.
 - [Unsupervised Learning](#unsupervised-learning)
   - [Clustering](#clustering)
   - [Recommendation](#recommendation)
-- [Reinforcement Learning](#reinforcement-learning)
 - [Computer Vision](#computer-vision)
   - [Convolutional Neural Network](#convolutional-neural-network)
   - [Fully Convolutional Network](#fully-convolutional-network)
   - [MobileNet Single Shot Detection](#mobilenet-single-shot-detection)
   - [Object Detection API](#object-detection-api)
+- [Hidden Markov Models](#hidden-markov-models)
+- [Reinforcement Learning](#reinforcement-learning)
 - [Recurrent Neural Network](#recurrent-neural-network)
-- [NLP](#nlp)
 - [Database](#database)
   - [SQL](#sql)
   - [NoSQL](#nosql)
@@ -44,10 +44,6 @@ Projects in this page are organized by **technology**.
 <a href="https://wzding.github.io/wzding.github.io/projects/Select_Genre_of_Next_Movie.html" target="_blank">**Select Genre of Next Movie**</a> - to pick the genre of our studio’s next movie using the dataset of IMDB movie ratings. I came up with two metrics to evaluate the popularity and reputation of a movie in a cerain genre which guide us to make recommendations.
 
 ----
-## Reinforcement Learning
-<a href="" target="_blank">**Train a Smartcab to Drive**</a> - applied reinforcement learning techniques for a self-driving agent in a simplified world to aid it in effectively reaching its destinations in the allotted time.
-
-----
 ## Computer Vision
 <a href="https://wzding.github.io/wzding.github.io/projects/Advanced-Lane-Finding.html" target="_blank">**Detecting Lane Lines I**</a> - detected lane lines on a highway by creating thresholded binary image as well as calculated curvature and vehicle's position in a video by fitting 2nd order polynomial functions.
 ### Convolutional Neural Network
@@ -61,12 +57,17 @@ Projects in this page are organized by **technology**.
 <a href="https://wzding.github.io/wzding.github.io/projects/Traffic_Light_Detection_and_Classification.html" target="_blank">**Traffic Light Detection and Classification**</a> - used Google Tensorflow Object Detection API to train a classifier to detect and classify traffic light in videos.
 
 ----
+## Hidden Markov Models 
+<a href="https://wzding.github.io/wzding.github.io/projects/Sign-Language-Recognition-System.html" target="_blank">**Predicting Stock Price**</a> - employed hidden Markov models (HMM's) to analyze a series of measurements taken from videos of American Sign Language (ASL) collected for research.
+
+----
+## Reinforcement Learning
+<a href="" target="_blank">**Train a Smartcab to Drive**</a> - applied reinforcement learning techniques for a self-driving agent in a simplified world to aid it in effectively reaching its destinations in the allotted time.
+
+----
 ## Recurrent Neural Network
 <a href="https://wzding.github.io/wzding.github.io/projects/Time_Series_Prediction.html" target="_blank">**Predicting Stock Price**</a> - used a Recurrent Neural Network regressor to forecast stock prices 7 years in advance.
 <br><br><a href="https://wzding.github.io/wzding.github.io/projects/Text_Generation.html" target="_blank">**Create A Text Generator**</a> - used a Recurrent Neural Network (RNN) architecture to create an English language sequence generator capable of building semi-coherent English sentences from scratch by building them up character-by-character. 
-
-----
-## NLP
 
 ----
 ## Database
