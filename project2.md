@@ -59,7 +59,7 @@ Projects in this page are organized by **technology**.
 
 ----
 ## Hidden Markov Models 
-<a href="https://wzding.github.io/wzding.github.io/projects/Sign-Language-Recognition-System.html" target="_blank">**Predicting Stock Price**</a> - employed hidden Markov models (HMM's) to analyze a series of measurements taken from videos of American Sign Language (ASL) collected for research.
+<a href="https://wzding.github.io/wzding.github.io/projects/Sign-Language-Recognition-System.html" target="_blank">**Sign Language Recognition System**</a> - employed hidden Markov models (HMM's) to analyze a series of measurements taken from videos of American Sign Language (ASL) collected for research.
 
 ----
 ## Reinforcement Learning
