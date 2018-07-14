@@ -82,7 +82,7 @@ Projects in this page are organized by **technology**.
 
 ----
 ## Visualization
-<a href="https://lovely-haleakala-78084.herokuapp.com/shortage" target="_blank">**Visualizing Impact of Component Shortage on Finished Goods**</a> - created a dashboard using [Bokeh](https://bokeh.pydata.org/en/latest/) and [Heroku](https://dashboard.heroku.com/) to visualize monetary loss of finished goods due to shortage of certain component/components. Please note that it may take some time to load the website cause I used a free-tier Heroku account to deploy the app.
+<a href="https://shortage.herokuapp.com/shortage" target="_blank">**Visualizing Impact of Component Shortage on Finished Goods**</a> - created a dashboard using [Bokeh](https://bokeh.pydata.org/en/latest/) and [Heroku](https://dashboard.heroku.com/) to visualize monetary loss of finished goods due to shortage of certain component/components. Please note that it may take some time to load the website cause I used a free-tier Heroku account to deploy the app.
 
 ----
 ## Tools I use
