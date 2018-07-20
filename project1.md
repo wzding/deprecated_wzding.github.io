@@ -51,7 +51,7 @@ Projects in this page are organized by **domain**.
 ## Supply Chain Management
 <a href="https://wzding.github.io/wzding.github.io/projects/Customer_Segments.html" target="_blank">**Customer Segmentation**</a> - this project aimed at describing the variation in different types of customers that a wholesale distributor interacts with by analyzing customers' annual spending amounts on diverse product categories.
 <br><br><a href="https://wzding.github.io/wzding.github.io/projects/stock_out_prediction.html" target="_blank">**Predicting Stock Out**</a> - used a variety of approaches to predict stock out of a certain product for a company and achieved over 90% accuracy.
-<br><br><a href="https://lovely-haleakala-78084.herokuapp.com/shortage" target="_blank">**Visualizing Impact of Component Shortage on Finished Goods**</a> - created a dashboard to visualize monetary loss of finished goods due to shortage of certain component/components. Please note that it may take some time to load the website cause I used a free-tier Heroku account to deploy the app.
+<br><br><a href="https://shortage.herokuapp.com/shortage" target="_blank">**Visualizing Impact of Component Shortage on Finished Goods**</a> - created a dashboard to visualize monetary loss of finished goods due to shortage of certain component/components. Please note that it may take some time to load the website cause I used a free-tier Heroku account to deploy the app.
 
 ----
 ## Transportation

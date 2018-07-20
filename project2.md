@@ -59,7 +59,7 @@ Projects in this page are organized by **technology**.
 
 ----
 ## Hidden Markov Models 
-<a href="https://wzding.github.io/wzding.github.io/projects/Sign-Language-Recognition-System.html" target="_blank">**Predicting Stock Price**</a> - employed hidden Markov models (HMM's) to analyze a series of measurements taken from videos of American Sign Language (ASL) collected for research.
+<a href="https://wzding.github.io/wzding.github.io/projects/Sign-Language-Recognition-System.html" target="_blank">**Sign Language Recognition System**</a> - employed hidden Markov models (HMM's) to analyze a series of measurements taken from videos of American Sign Language (ASL) collected for research.
 
 ----
 ## Reinforcement Learning
@@ -82,7 +82,7 @@ Projects in this page are organized by **technology**.
 
 ----
 ## Visualization
-<a href="https://lovely-haleakala-78084.herokuapp.com/shortage" target="_blank">**Visualizing Impact of Component Shortage on Finished Goods**</a> - created a dashboard using [Bokeh](https://bokeh.pydata.org/en/latest/) and [Heroku](https://dashboard.heroku.com/) to visualize monetary loss of finished goods due to shortage of certain component/components. Please note that it may take some time to load the website cause I used a free-tier Heroku account to deploy the app.
+<a href="https://shortage.herokuapp.com/shortage" target="_blank">**Visualizing Impact of Component Shortage on Finished Goods**</a> - created a dashboard using [Bokeh](https://bokeh.pydata.org/en/latest/) and [Heroku](https://dashboard.heroku.com/) to visualize monetary loss of finished goods due to shortage of certain component/components. Please note that it may take some time to load the website cause I used a free-tier Heroku account to deploy the app.
 
 ----
 ## Tools I use
