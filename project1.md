@@ -37,7 +37,7 @@ Projects in this page are organized by **domain**.
 ----
 ## Language
 <a href="https://wzding.github.io/wzding.github.io/projects/Sign-Language-Recognition-System.html" target="_blank">**Sign Language Recognition System**</a> - to build a word recognizer for [American Sign Language video sequences](http://www-i6.informatik.rwth-aachen.de/~dreuw/database-rwth-boston-104.php).
-<br><br><a href="https://wzding.github.io/wzding.github.io/projects/Text_Generation.html" target="_blank">**Create A Text Generator**</a> - created an English language sequence generator to generate semi-coherent English sentences (character-by-character). 
+<br><br><a href="https://wzding.github.io/wzding.github.io/projects/Text_Generation.html" target="_blank">**Create A Text Generator**</a> - created an English language sequence generator to generate semi-coherent English sentences (character-by-character).
 
 ----
 ## Non-profit
@@ -55,15 +55,16 @@ Projects in this page are organized by **domain**.
 
 ----
 ## Transportation
-<a href="https://wzding.github.io/wzding.github.io/projects/Traffic_Light_Detection_and_Classification.html" target="_blank">**Traffic Light Detection and Classification**</a> - created a deep learning model to detect if there is a traffic light in an image as well as determine the color - green, yellow or red - of the light.
+<a href="https://wzding.github.io/wzding.github.io/projects/Chicago_taxi.html" target="_blank">**Analyzing Chicago Taxi Trips**</a> Extracted, parsed, and filtered over 100 million Chicago taxi trips; Built relational databases to extract statistics on trip volume, revenue and location using PostgreSQL; Developed time series analysis, used ETS and ARIMA models to predict taxi trip volume and revenue; Discovered downward trends of trip volume and revenue, classified taxi drivers based on productivity.
+<br><br><a href="https://wzding.github.io/wzding.github.io/projects/Traffic_Light_Detection_and_Classification.html" target="_blank">**Traffic Light Detection and Classification**</a> - created a deep learning model to detect if there is a traffic light in an image as well as determine the color - green, yellow or red - of the light.
 <br><br><a href="https://wzding.github.io/wzding.github.io/projects/Traffic_Sign_Classifier.html" target="_blank">**Traffic Sign Recognition**</a> - trained and evaluated a deep learning model using the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) and achieved over 90% accuracy on test images.
-<br><br><a href="https://wzding.github.io/wzding.github.io/projects/Vehicle_Detection.html" target="_blank">**Vehicle Detection I**</a> - built a pipeline to detect vehicles on the road in a video from a front-facing camera on a car. There was a bounding box for each vehicle detected using this pipeline. 
+<br><br><a href="https://wzding.github.io/wzding.github.io/projects/Vehicle_Detection.html" target="_blank">**Vehicle Detection I**</a> - built a pipeline to detect vehicles on the road in a video from a front-facing camera on a car. There was a bounding box for each vehicle detected using this pipeline.
 <br><br><a href="https://wzding.github.io/wzding.github.io/projects/Object_Detection_MobileNets_SSD.html" target="_blank">**Vehicle Detection II**</a> - shared a similar goal with the project above, detecting cars, people, bikes in a image, but it approached this goal with a totally different method.
-<br><br><a href="https://wzding.github.io/wzding.github.io/projects/Advanced-Lane-Finding.html" target="_blank">**Detecting Lane Lines I**</a> - detected lane lines on a highway as well as calculated curvature and vehicle's position in a video. 
+<br><br><a href="https://wzding.github.io/wzding.github.io/projects/Advanced-Lane-Finding.html" target="_blank">**Detecting Lane Lines I**</a> - detected lane lines on a highway as well as calculated curvature and vehicle's position in a video.
 <br><br><a href="https://wzding.github.io/wzding.github.io/projects/Semantic_Segmentation.html" target="_blank">**Detecting Lane Lines II**</a> - used an advance method for pixel-wise detection of free space on the road in a video clip.
 <br><br><a href="" target="_blank">**Train a Smartcab to Drive**</a> - applied reinforcement learning techniques for a self-driving agent in a simplified world to assist it in effectively reaching its destinations in allotted time.
 <br><br><a href="https://wzding.github.io/wzding.github.io/projects/Wrangle_OpenStreetMap.html" target="_blank">**Wrangle Open Street Map Data**</a> - For this project, I selected San Diego, CA, United States in [Open Street Map](https://www.openstreetmap.org) and used data munging techniques, such as assessing the quality of the data for validity, accuracy, completeness, consistency and uniformity, to clean the raw data. I used SQL as the data schema to complete the project.
 
 ----
 ## Other
-<a href="https://wzding.github.io/wzding.github.io/projects/Titanic_Survival_Exploration.html" target="_blank">**Titanic Survival Exploration**</a> - The project revolved around taking in a dataset of all the passengers in the Titanic disaster, which includes data such as age, gender, ticket price and etc. to predict whether or not they survived. 
+<a href="https://wzding.github.io/wzding.github.io/projects/Titanic_Survival_Exploration.html" target="_blank">**Titanic Survival Exploration**</a> - The project revolved around taking in a dataset of all the passengers in the Titanic disaster, which includes data such as age, gender, ticket price and etc. to predict whether or not they survived.
