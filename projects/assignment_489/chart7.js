@@ -1,9 +1,10 @@
-d3.csv('2020-02.csv', (data) => {
+d3.csv('2020-07.csv', (data) => {
   const height = 450;
   const width = 754;
   const margin = { top: 20, right: 20, bottom: 30, left: 45 };
 
   const columns = data.columns.slice(1);
+  // .filter((d) => d > '2020-07-01');
   // console.log(columns);
 
   var data = {
@@ -17,6 +18,7 @@ d3.csv('2020-02.csv', (data) => {
   // data = data.filter((d) => {
   //   d.dates > '2020-06-30';
   // });
+  // console.log(data);
 
   const svg = d3
     .select('body')

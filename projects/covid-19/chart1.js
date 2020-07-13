@@ -1,4 +1,4 @@
-d3.csv('2020-02.csv', (data) => {
+d3.csv('us-states-pivot.csv', (data) => {
   const height = 450;
   const width = 754;
   const margin = { top: 20, right: 20, bottom: 30, left: 45 };
@@ -7,6 +7,7 @@ d3.csv('2020-02.csv', (data) => {
   // console.log(columns);
 
   var data = {
+    y: 'COVID-19 Cases',
     series: data.map((d) => ({
       name: d.state,
       values: columns.map((k) => +d[k]),
@@ -14,9 +15,7 @@ d3.csv('2020-02.csv', (data) => {
     dates: columns.map(d3.utcParse('%Y-%m-%d')),
   };
 
-  // data = data.filter((d) => {
-  //   d.dates > '2020-06-30';
-  // });
+  // console.log(data);
 
   const svg = d3
     .select('body')
@@ -32,8 +31,7 @@ d3.csv('2020-02.csv', (data) => {
 
   var y = d3
     .scaleLinear()
-    .domain([0, 12000])
-    // .domain([0, d3.max(data.series, (d) => d3.max(d.values))])
+    .domain([0, d3.max(data.series, (d) => d3.max(d.values))])
     .nice()
     .range([height - margin.bottom, margin.top]);
 
@@ -86,7 +84,7 @@ d3.csv('2020-02.csv', (data) => {
         .attr('x', 3)
         .attr('text-anchor', 'start')
         .attr('font-weight', 'bold')
-        .text('COVID-19 Cases')
+        .text(data.y)
     );
 
   svg.call(hover, path);

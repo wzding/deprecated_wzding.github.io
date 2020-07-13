@@ -14,10 +14,7 @@
 
   <div>
     <p>
-      This narrative visualization demonstrates State-level comparisons of
-      COVID-19 cases. The 1st graph shows the time series of COVID-19 cases from
-      Feb. 2020 to Jul. 2020. Each subsequent graph shows the time series for a
-      specific month.
+      This narrative visualization demonstrates State-level comparisons for COVID-19 cases and deaths. The 1st graph shows the time series of COVID-19 cases from Feb. 2020 to Jul. 2020. The 2nd visualization presents the number of cases and deaths in each State sorted by the number of deaths in descending order. Each month is color coded as a different color. The last scatter plot demonstrates the ratio of deaths to cases. Red circles show the highest ratios while blue ones indicate lowest ratios.  
     </p>
     <a href="https://github.com/nytimes/covid-19-data">Data Source</a>
     <!-- <a href="https://github.com/nytimes/covid-19-data">Data Process</a> -->
@@ -27,32 +24,16 @@
 
 <body style="width: 1100px; margin: 0 auto;">
   <div id="container">
-    <button id="2020-01" style="height: 30px;">
-      All
+    <button id="button1" style="width: 250px; height: 30px;">
+      Timeseries of COVID-19 Cases
     </button>
 
-    <button id="2020-02" style="height: 30px;">
-      Feb 2020
+    <button id="button2" style="width: 250px; height: 30px;">
+      Comparision of Cases and Deaths
     </button>
 
-    <button id="2020-03" style="height: 30px;">
-      Mar 2020
-    </button>
-
-    <button id="2020-04" style="height: 30px;">
-      Apr 2020
-    </button>
-
-    <button id="2020-05" style="height: 30px;">
-      May 2020
-    </button>
-
-    <button id="2020-06" style="height: 30px;">
-      Jun 2020
-    </button>
-
-    <button id="2020-07" style="height: 30px;">
-      Jul 2020
+    <button id="button3" style="width: 200px; height: 30px;">
+      Death Rate
     </button>
     <br />
     <br />
