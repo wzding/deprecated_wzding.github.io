@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8" />
+  <title>COVID-19 Visualization in the U.S.</title>
+  <script src="https://d3js.org/d3.v4.js"></script>
+  <script src="https://d3js.org/d3-collection.v1.min.js"></script>
+  <script src="https://d3js.org/d3-array.v2.min.js"></script>
+  <script src="https://d3js.org/d3-color.v1.min.js"></script>
+  <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+
+  <h1>
+    COVID-19 Visualization in the U.S.
+  </h1>
+
+  <div>
+    <p>
+      used State level data Resources
+      https://observablehq.com/@d3/multi-line-chart
+      https://observablehq.com/@d3/bar-chart-race
+      https://observablehq.com/@d3/scatterplot
+    </p>
+    <a href="https://github.com/nytimes/covid-19-data">Data Source</a>
+    <!-- <a href="https://github.com/nytimes/covid-19-data">Data Process</a> -->
+  </div>
+</head>
+<br />
+
+<body style="width: 1100px; margin: 0 auto;">
+  <div id="container">
+    <button id="button1" style="width: 250px; height: 30px;">
+      Timeseries of COVID-19 Cases
+    </button>
+
+    <button id="button2" style="width: 250px; height: 30px;">
+      Comparision of Cases and Deaths
+    </button>
+
+    <button id="button3" style="width: 200px; height: 30px;">
+      Death Rate
+    </button>
+    <br />
+    <br />
+  </div>
+  <script src="chart1.js"></script>
+  <script src="click.js"></script>
+</body>
